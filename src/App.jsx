@@ -2,5 +2,4 @@ function App() {}
 
 export default App;
 
-// I'll work on this tomorrow
-// Making my profile green hehe
+// Nothing, Just Making my Github profile green hehe
