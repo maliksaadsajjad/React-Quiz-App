@@ -44,5 +44,3 @@ export default function Question({
     </div>
   );
 }
-
-//free will being utilized again & again & again...
